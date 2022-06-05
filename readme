@@ -1,4 +1,4 @@
 # Projet-info-tetris
 Projet informatique de Farès Mouloudi et Thomas Nguyen
-Si le makefile ne fonctionne pas veuillez prendre le fichier complet.c et le compiler a l'aide de la commande gcc -o complet complet.c et l'executer avec lz commznd ./complet
-Toutes le commandes pour l'execution du programme dans le terminl sont expliquées dans le terminal.
+Si le makefile ne fonctionne pas veuillez prendre le fichier complet.c et le compiler a l'aide de la commande gcc -o complet complet.c et l'executer avec la commande ./complet
+Toutes le commandes pour l'execution du programme dans le terminal sont expliquées dans le terminal.
